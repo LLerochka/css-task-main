@@ -1,0 +1,43 @@
+
+
+
+
+
+h1{
+    color: #2A4A5C;
+}
+
+h2{
+color: #3698FB;
+}
+
+h3{
+    color: #EEEEEE;
+}
+
+h4 {
+    color: #7B8A92;
+}
+
+label {
+    color: #96A5B1;
+}
+button {
+    color: #EFFFFF;
+    background-color: #3698FB;
+    
+}
+
+input{
+    color: #EEEEEE;
+}
+.aside {
+text-align: right;
+}
+.box1 {
+    border-color: #7B8A92;
+    border-width: 0.1;
+}
+text{
+    https://www.fontsquirrel.com/fonts/barlow
+}
